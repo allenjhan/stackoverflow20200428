@@ -1,0 +1,21 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /Users/allenhan/IdeaProjects/stackoverflow20200428/target/scala-2.13/stackoverflow20200428_2.13-0.1.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	FoldTest.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/allenhan/IdeaProjects/stackoverflow20200428/target/scala-2.13/classes/FoldTest.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	FoldTest$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/allenhan/IdeaProjects/stackoverflow20200428/target/scala-2.13/classes/FoldTest$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ZipAllTest$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/allenhan/IdeaProjects/stackoverflow20200428/target/scala-2.13/classes/ZipAllTest$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	LazyZipTest$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/allenhan/IdeaProjects/stackoverflow20200428/target/scala-2.13/classes/LazyZipTest$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ZipAllTest$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/allenhan/IdeaProjects/stackoverflow20200428/target/scala-2.13/classes/ZipAllTest$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	FoldTest$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/allenhan/IdeaProjects/stackoverflow20200428/target/scala-2.13/classes/FoldTest$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	LazyZipTest.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/allenhan/IdeaProjects/stackoverflow20200428/target/scala-2.13/classes/LazyZipTest.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	LazyZipTest$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/allenhan/IdeaProjects/stackoverflow20200428/target/scala-2.13/classes/LazyZipTest$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ZipAllTest.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/allenhan/IdeaProjects/stackoverflow20200428/target/scala-2.13/classes/ZipAllTest.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
